@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mucho Cuidado]]></title>
         <description><![CDATA[Mucho Cuidado]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mucho-cuidado/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 18:57:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 19:12:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mucho-cuidado/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Garage Inundado]]></title>
             <description><![CDATA[<article><h1>Garage Inundado</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef7a78ec-dde4-46e7-8dea-6926303f021c.jpg"></article>]]></description>
-            <link>undefinedgarage-inundado/index.html</link>
+            <link>https://thegrid.ai/mucho-cuidado/garage-inundado/index.html</link>
             <guid isPermaLink="false">b5f20a4d-0999-4899-83b9-0477fd7577f2</guid>
-            <pubDate>Sat, 14 May 2016 18:57:28 GMT</pubDate>
+            <pubDate>Sat, 14 May 2016 19:11:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
