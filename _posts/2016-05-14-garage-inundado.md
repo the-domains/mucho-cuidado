@@ -4,13 +4,14 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Garage Inundado '
-datePublished: '2016-05-14T18:57:28.668Z'
-dateModified: '2016-05-14T18:56:33.197Z'
+description: ''
+datePublished: '2016-05-14T19:11:59.889Z'
+dateModified: '2016-05-14T18:57:35.413Z'
 title: Garage Inundado
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-14-garage-inundado.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-14-garage-inundado.md
 url: garage-inundado/index.html
 _type: Article
 
