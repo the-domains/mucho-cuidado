@@ -1,0 +1,28 @@
+name: Mucho Cuidado
+favicon: null
+layout_spectrum: 0.333112093154341
+typography_spectrum: 0.868106588255614
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9892249933909625
+  lightness: 0.7318417611531913
+  saturation: 0.10903058154508471
+  rhythmicContrast: 0.9049284199718386
+purpose: []
